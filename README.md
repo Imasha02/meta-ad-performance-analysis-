@@ -2,9 +2,6 @@
 
 An interactive Power BI dashboard developed to analyze paid advertising performance across Facebook and Instagram. The dashboard provides insights into campaign reach, engagement, conversions, audience demographics, geographic performance, time-based trends, and ad-type performance.
 
-## 📊 Dashboard Preview
-
-![Meta Ad Performance Dashboard](screenshots/dashboard-overview.png)
 
 ---
 
@@ -162,7 +159,6 @@ Based on the dashboard analysis:
 * Video and Stories formats showed strong engagement and conversion-related metrics within the analyzed dataset.
 * Performance varied across geographic markets and audience segments.
 
-> Note: These findings are specific to the dataset used in this project and should not be interpreted as general Meta advertising benchmarks.
 
 ---
 
@@ -193,49 +189,7 @@ Based on the observed patterns in the dataset:
 
 ---
 
-## 📁 Repository Structure
-
-```text
-meta-ad-performance-analysis/
-│
-├── dashboard/
-│   └── Meta_Ad_Performance_Analysis.pbix
-│
-├── screenshots/
-│   └── dashboard-overview.png
-│
-├── data/
-│   └── README.md
-│
-├── documentation/
-│   └── BRD.pdf
-│
-└── README.md
-```
-
----
-
-## 📄 Project Documentation
-
-The `documentation` folder contains the business requirements and project documentation used to define the dashboard requirements.
-
-## ⚠️ Dataset
-
-The dataset represents Meta advertising performance data covering campaigns, advertisements, users, and ad interaction events.
-
-The project focuses on **paid advertising activity on Facebook and Instagram**.
-
-If the original dataset is not included in this repository, please refer to the project documentation for the dataset structure and field definitions.
-
----
-
 ## 👩‍💻 Author
 
 **Imasha Buddhini**
 
-Final-year BSc (Hons) Information Technology & Management undergraduate
-University of Colombo
-
-Interested in:
-
-**Data Science | Data Analytics | Business Analytics | Business Intelligence | AI/ML**
